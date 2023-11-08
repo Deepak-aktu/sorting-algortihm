@@ -1,6 +1,6 @@
-# sorting-algortihm
+# sorting-algorithm
 <br>
-sorting algorithm-
+sorting algorithm
 <br>
 1_selection sort
 <br>
