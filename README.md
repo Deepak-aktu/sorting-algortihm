@@ -2,8 +2,8 @@
 <br>
 sorting algorithm-
 <br>
-*selection sort
+1_selection sort
 <br>
-*insertion sort 
+2_insertion sort 
 <br>
-bubble sort
+3_bubble sort
